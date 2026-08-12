@@ -197,6 +197,6 @@ pip install -r requirements.txt
 
 **Полина Шокова**  
 Цифровая лингвистика, Южный федеральный университет  
-Email: bupolina12@gmail.com  
+Email: shokovaapolina@gmail.com  
 GitHub: https://github.com/shokovapolina  
 LinkedIn: https://www.linkedin.com/in/polina-shokova-71026a389/
