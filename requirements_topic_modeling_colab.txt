@@ -1,0 +1,7 @@
+scipy==1.11.2
+gensim==3.8.2
+pyLDAvis==3.4.1
+numpy
+pandas
+matplotlib
+requests
