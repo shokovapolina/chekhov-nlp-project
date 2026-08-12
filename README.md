@@ -200,6 +200,6 @@ A detailed textual report of the Voyant Tools analysis of the lemmatized corpus 
 
 **Polina Shokova**  
 Digital Linguistics, Southern Federal University  
-Email: bupolina12@gmail.com  
+Email: shokovaapolina@gmail.com  
 GitHub: https://github.com/shokovapolina  
 LinkedIn: https://www.linkedin.com/in/polina-shokova-71026a389/
